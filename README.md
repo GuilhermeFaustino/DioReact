@@ -1,9 +1,9 @@
 # DioReact
 Curso Dio App React - Fundamentos
 
-![image](https://user-images.githubusercontent.com/35610614/173705586-bb40cd8f-b2f0-49f1-bd26-76e825463237.png)
+![image](https://user-images.githubusercontent.com/35610614/173706444-1f521e47-2761-4b63-b257-192b4ecc0db1.png)
 
-#Conteudo
+# Conteudo
 - O que reactive native
 - O que e Cross-platform
 - Origen do RN
